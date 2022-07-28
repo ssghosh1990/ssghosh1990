@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya.
 - 👀 I’m interested in learning new technologies, reading books etc.
-- 🌱 I’m currently learning go.
+- 🌱 I’m currently learning Flask webframework.
 - 💞️ I’m looking to collaborate on many popular open source projects.
 - 📫 Reach me on +91-8621933375 ( E-mail ID - soumyashankar.ghosh@gmail.com )
 
